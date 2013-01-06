@@ -1,0 +1,95 @@
+body
+{
+  background-image:url(wallpaper1.jpg);
+	margin:0;
+	padding:0;
+}
+a
+{
+	text-decoration:none;
+	color:#F0FFFF;
+}
+a:hover
+{
+	text-decoration:underline;
+}
+.page
+{
+	width:875;
+	margin:auto;
+}
+#banner
+{
+	background-image:url(music_page.jpg);
+	border-style:solid;
+	margin:0 auto;
+	height:210px;
+	width:560px;
+}
+#menu
+{
+	display:block;
+	margin:0;
+	padding:0;
+	background-color:#F0FFFF;
+}
+.menuitem
+{
+	display:block;
+	text-decoration:none;
+	width:20%;
+	float:left;
+	text-align:center;
+	height:20px;
+	vertical-align:middle;
+	color:#F0FFFF;
+	background-color:#568203;
+}
+.menuitem:hover
+{
+	background-color:#000;
+	color:#F0FFFF;
+	text-decoration:none;
+}
+.mainpage
+{
+	color:#F0FFFF;
+	width:815px;
+	margin:10px auto;
+	padding:15px;
+	text-align:center;
+	border:solid;
+	border-color:#000000;
+}
+hr
+{
+	margin:0;
+	padding:0;
+}
+.footer
+{
+	height:50px;
+	display:block;
+	padding:15px;
+	text-align:center;
+	text-decoration:none;
+	color:#F0FFFF;
+}
+.music
+{
+	text-align: center;
+}
+.writing
+{
+	color:#F0FFFF;
+	text-decoration:none;
+	width:815px;
+	margin:15px;
+	padding:15px;
+}
+.pictures
+{
+	margin:15px;
+	padding:15px;
+	color:#F0FFFF;
+}
